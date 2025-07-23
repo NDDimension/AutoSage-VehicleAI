@@ -99,8 +99,8 @@ pip install -r requirements.txt
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/AutoSage-AI.git
-cd AutoSage-AI
+git clone https://github.com/NDDimension/AutoSage-VehicleAI.git
+cd AutoSage-VehicleAI
 ```
 
 2️⃣ **Set up virtual environment (recommended)**
